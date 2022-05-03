@@ -1,2 +1,2 @@
-# Aplied-Algorithms-2019
+# Aplied-Algorithms
 Various programming problems that I solved in C++ when learning Algorithms.
